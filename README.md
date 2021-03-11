@@ -7,7 +7,7 @@ for example when there is a problem find mate in 2 or smth we don't know the
 final position, so it's one way search, here we can start from both ends in
 different directions. First I've wrote the program in C++, than in Python, 
 but in both programs there are lot of unnecessary things, and than started writing
-it in C with moar clear mind what to do exactly, but has lost interest:)
+it in C with moar clear mind what to do exactly, but have lost interest:)
 ```Python
 +------+------+------+------+------+------+------+------+------+------+------+
 |      |      |      |      |      |      |      |      |      |      |      |
